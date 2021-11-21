@@ -1,0 +1,10 @@
+1-apple-1.05
+2-orange-2.0
+3-beetroot-1.10
+4-garlic-4.60
+5-banana-2.5
+6-pear-3.0
+7-milk-1.25
+8-chips-0.75
+9-mysterious good-100.00
+10-fantasy is over;(-0.0
